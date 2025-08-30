@@ -13,7 +13,7 @@ I'm currently pursuing a PhD in theoretical computer science. As I started explo
 
 This repository is my attempt to create what I wish I had:
 -  **Concise, intuitive explanations** that capture the core ideas  
--  **Formal definitions and equations** included for completeness — but never the starting point  
+-  **Formal definitions and equations** included for completeness, but never the starting point  
 -  **Visual aids, examples, and code snippets** where they clarify the intuition  
 
 The goal is not to oversimplify, but to explain things in a way that makes the underlying structure transparent especially for others making the same transition.

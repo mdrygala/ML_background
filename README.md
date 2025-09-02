@@ -20,7 +20,9 @@ The goal is not to oversimplify, but to explain things in a way that makes the u
 
 
 ### Current State
+
 The notes are currently in the beginning stages and growing (albeit slower than I would like due to many concurrent projects). For an idea of what kind of explanations I am aiming for look at my notes on [HDBSCAN](../notes/unsupervised_learning_models.ipynb#iii--hierarchical-density-based-spatial-clustering-of-applications-with-noise-hdbscan). I will add figures as my progress expands. For complementary code see my implementation in [clustering.py](unsupervised_learning/HDBSCAN.py).
+
 ---
 
 ###  Table of Contents

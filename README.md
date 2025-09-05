@@ -26,9 +26,19 @@ The notes are currently in the beginning stages and growing (albeit slower than 
 ---
 
 ###  Table of Contents
+Here we provide a skeleton of what we intend to include in the near future. For current files we include links.
 
 | Section | Description |
 |--------|-------------|
-| [ Machine Learning Paradigms](notes/ml_paradigms.ipynb) | Overview of supervised, unsupervised, reinforcement, and generative paradigms |
-| [ Unsupervised Learning](notes/unsupervised_learning_models.ipynb) | Clustering, dimensionality reduction, and latent space models |
+| Machine Learning Paradigms | Overview of supervised, unsupervised, self-supervised learning, reinforcement learning, and generative paradigms | #[Machine Learning Paradigms](notes/ml_paradigms.ipynb)
+| Supervised Learning | Covers classification and regression tasks, common model families and evaluation metrics | #(notes/supervised_learning_models.ipynb)
+| [ Unsupervised Learning](notes/unsupervised_learning_models.ipynb) | Clustering, dimensionality reduction, representation learning, self-supervised learning, evaluation of methods|
+| Self-Supervised Learning | Overview of contrastive, generative, and pretext-task-based approaches to learning representations without labels (e.g., SimCLR, BERT, BYOL) | #[Self-Supervised Learning](notes/self_supervised_learning.ipynb)
+| Loss Functions | Common loss functions grouped by task: regression, classification, probabilistic models. | #[Loss Functions](notes/loss_functions.ipynb)
+| Data Preprocessing | Practical techniques for preparing raw data: scaling, encoding, handling missing values, and preventing data leakage. Includes their effects on optimization and model behavior | #[Data Preprocessing](notes/data_preprocessing.ipynb)
+| Overfitting and Generalization | Explanation of overfitting, underfitting, bias-variance tradeoff, and generalization bounds |
+| Optimization in ML | Gradient-based and gradient-free methods, convex vs non-convex problems, and optimization landscapes |
+| Generative AI | Overview of models that learn to generate data: VAEs, GANs, Diffusion models, autoregressive models |
+| Reinforcement Learning | Agents learning through trial and error: MDPs, policies, rewards, and exploration strategies |
+| Interpretability and Explainability | Tools and concepts for understanding model predictions: feature importance, SHAP, LIME, saliency maps, counterfactuals | #[Interpretability and Explainability](notes/interpretability.ipynb)
 

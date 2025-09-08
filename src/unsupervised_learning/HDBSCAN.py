@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 import torch
-from typing import Optional, Callable, Tuple
+from typing import Optional, Callable, Tuple, List
 import faiss
 from scipy.sparse import coo_matrix
 from scipy.sparse.csgraph import minimum_spanning_tree
